@@ -5,6 +5,8 @@ This repository contains the official ZMK configuration for the **Wireless Corne
 * **Product Page:** [Wireless Corne SMT PCB](https://boardsource.xyz/products/wireless-corne-smt-pcb-assembled-hot-swap-zmk-compatible-split-keyboard-pcb)
 * **Full Documentation & Build Guide:** [Wireless SMT Corne Docs](https://boardsource.xyz/blogs/guides/wireless-smt-corne-docs)
 
+![keymap](keymap.svg)
+
 ---
 
 ## Features
